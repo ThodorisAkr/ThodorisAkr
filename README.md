@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Thodoris
+
+I'm a Frontend Engineer with 4.5 years of professional experience building web applications with Vue.js.
+
+I'm currently expanding my expertise in React and TypeScript, with a focus on writing maintainable, accessible, and reliable frontend applications.
+
+### Technical focus
+- **Frontend:** Vue.js, JavaScript, TypeScript
+- **Currently learning:** React and deeper TypeScript concepts
+- **Engineering interests:** Frontend architecture, state management, testing, and web performance
 
 <!--
 **ThodorisAkr/ThodorisAkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
